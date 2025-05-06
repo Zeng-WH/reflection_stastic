@@ -118,9 +118,9 @@ The task is:{task}
 
 
 SELECT = 1
-# MODEL_NAME = ["gpt-4o-2024-08-06", "https://aigc.sankuai.com/v1/openai/explore/chat/completions"]
+# MODEL_NAME = ["gpt-4o-2024-08-06", ""]
 
-MODEL_NAME = ["gpt-4o-2024-08-06", "https://aigc.sankuai.com/v1/openai/native/chat/completions"]
+MODEL_NAME = ["gpt-4o-2024-08-06", ""]
 GEN_CONFIG = {"max_tokens": 4096,}
 
 
